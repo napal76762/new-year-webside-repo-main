@@ -1,0 +1,260 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
+}
+#main-body{
+    background-color:white;
+    border: 10px solid red;
+}
+.main{
+    background-image: url('Banner\ Image.png');
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 75px;
+    
+}
+.header{
+    color: #fff;
+    top: 30%;
+    position: relative;
+    text-align: center;
+    
+}
+.font{
+    font-size: 50px;
+    margin: 0,10px;
+    font-weight: bold;
+}
+.main-section{
+    text-align: center;
+    margin: 60px;
+}
+.sec-font{
+    color: red;
+    font-weight: bolder;
+    
+}
+.sec-font2{
+    color: red;
+}
+h3{
+    font-weight: bolder;
+    font: 700;
+}
+.img img{
+    width: 450px;
+    
+}
+.sec-back{
+    background-image: url('Vectorrr.png');
+    background-repeat: no-repeat;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    margin: 75px;
+}
+.sec-back{
+    display: flex;
+    color: #fff; 
+    p
+}
+.div-font{
+    margin: 75px;
+    padding: 75px;
+}
+.font-wigth{
+    width: 900;
+    font-size: 40px;
+}
+.img-1 img{
+    margin: 35px;
+    width: 280px;
+    padding-right: 20px;
+}
+.section-maind{
+    background-color:rgb(232, 190, 196);
+    height: 350px;
+    margin: 75px;
+    border-radius: 10px;
+}
+.main-font{
+    text-align: center;
+    background-position: center;
+    bottom: 50%;
+    position: relative;
+    top: 30%;
+    color: #070211;
+}
+.color{
+    background-color: #FF0000;
+    border-radius: 5px;
+    font-size: 10px;
+    border: none;
+    padding: 10px;
+    color: #fff;
+}
+span{
+    color: #FF0000;
+}
+.no-problem{
+    display: flex;
+    margin: 130px;
+    width: 900px;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+
+p{
+    font-size: small;
+    font-weight: 400;
+}
+.h5-color{
+    color: #FF0000; 
+}
+.div-2 img{
+    width: 250px;
+    border:10px solid #FF0000;
+    padding: 15px;
+    border-radius: 350px;
+}
+.h2-color{
+   color:#FF0000; 
+}
+
+.section-main{
+    background-color: #fff;
+    margin: 75px;
+    padding: 10px;
+    width: 400px
+}
+.blod{
+    width: 900;
+}
+.div1-style{
+    display: flex;
+    position: relative;
+}
+.Photo{
+    width: 350px;
+    padding: 10px;
+}
+.Photo1{
+    width: 350px;
+    padding: 10px;
+}
+.Photo2{
+    width: 350px;
+    padding: 10px;
+}
+.Photo3{
+    width: 350px;
+    padding: 10px;
+}
+.Photo4{
+    width: 350px;
+    padding: 10px;
+}
+.Photo5{
+    width: 350px;
+    padding: 10px;
+}
+.sect-main{
+    background-color: rgb(198, 182, 185);
+    position: relative;
+    text-align: center;
+    padding: 50px;
+    height: 450px;
+    margin: 75px;
+    border-radius: 10px;
+}
+.font-2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+   
+}
+.font-p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; 
+}
+input{
+    padding: 13px;
+    border-radius: 20px 0 0 20px;
+    border-style: none;
+}
+button{
+    padding: 15px;
+    border-radius: 0 20px 20px 0;
+    border-style: none;
+    background: #F00;
+    margin-right: 20px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 10px;
+}
+.main-footer{
+    background-color: black;
+    height: 450px;
+    margin: 75px;
+    border-radius: 10px;
+}
+.footer1{
+    display: flex;
+    justify-content: space-between;
+    margin: 35px;
+}
+.footer1-img{
+    width: 20px;
+    height: 20px;
+    
+}
+.contact{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    line-height: 0.5;
+}
+
+
+ .p-footer{
+    color: #FFF;
+    font-size: 18px;
+    /* padding: 15px; */
+} 
+.footer-img{
+    color: #FFF;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.img-footer{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 35px;
+}
+.col1{
+    padding: 10px;
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+  
+}
+.p-end{
+    color: #FFF;
+    font-size: 18px;
+    margin: 75px;
+}
+
+    
+    
